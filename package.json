@@ -1,0 +1,22 @@
+{
+  "name": "reyhanrumengan.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyhanrumengan/reyhanrumengan.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyhanrumengan/reyhanrumengan.github.io/issues"
+  },
+  "homepage": "https://github.com/reyhanrumengan/reyhanrumengan.github.io#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
